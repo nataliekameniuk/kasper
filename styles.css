@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    
+    color: #FFF;
+   
+    text-align: center;
+}
+    .social
+    { 
+        font-size: 20px;
+    font-family: OpenSans Semibold; 
+    padding-top: 2%;}
+
+
+    footer {
+        font-size: 15px;
+        font-family: OpenSans;
+        padding-top: 15%;
+ 
+    }
+
+.textcolor
+{
+    color:#19c8fa
+}
+
+.center
+
+{
+    vertical-align: bottom;
+    padding-top: 15%;
+}
+.icon
+
+{
+   padding-right: 2%; 
+}
